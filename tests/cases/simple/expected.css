@@ -6,3 +6,6 @@
    font-family: "Droid Arabic Kufi","Droid Sans", sans-serif;
    font-size: 14px;
 }
+#example {
+   border-radius: 25px 0 0 25px;
+}
